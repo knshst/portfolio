@@ -595,6 +595,7 @@ section {
   background: #45505b;
   padding: 5px 15px;
   display: inline-block;
+  border-radius: 5px;
   font-weight: 600;
   margin-bottom: 10px;
 
