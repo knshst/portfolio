@@ -378,12 +378,45 @@ section {
   padding-bottom: 30px;
 }
 
+.section-title2 {
+  padding-bottom: 30px;
+}
+
+.section-title3 {
+  padding-bottom: 0px;
+}
+
+.custom-image {
+  max-width: 100%;
+  height: auto;
+}
+
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 20px;
+  position: relative;
+  color: #45505b;
+}
+
+.section-title2 h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #45505b;
+}
+
+.section-title3 h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  /* margin-bottom: 20px;
+  padding-bottom: 20px; */
   position: relative;
   color: #45505b;
 }
@@ -548,6 +581,14 @@ section {
   margin-top: 20px;
   margin-bottom: 20px;
   color: #45505b;
+}
+
+.resume .resume-title2 {
+  font-size: 26px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #0563bb;
 }
 
 .resume .resume-item {
