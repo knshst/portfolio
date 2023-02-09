@@ -5,7 +5,7 @@
  */
 .steps {
   padding: 0;
-  margin: 0;
+  margin: 0 0 1rem 0;
   list-style: none;
   display: flex;
   overflow-x: auto;
