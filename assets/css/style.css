@@ -668,8 +668,28 @@ section {
   justify-content: center;
 }
 
+.resume .development-iteration p {
+  text-align: center;
+  margin: 0;
+  font-weight: 700;
+}
+
+.resume .product-strategy {
+  padding: 0 50px 50px 50px;
+}
+
+.resume .product-strategy  p {
+  text-align: center;
+  font-weight: 700;
+}
+
 .resume .img-fluid {
   width: 70%;
+  height: auto;
+}
+
+.resume .img-fluid2 {
+  width: 100%;
   height: auto;
 }
 
@@ -755,7 +775,7 @@ section {
   line-height: 0;
   background: #ecf3ff;
   padding: 4px;
-  margin-right: 10px;
+  margin-right: 20px;
   font-size: 24px;
   border-radius: 3px;
   transition: 0.3s;
