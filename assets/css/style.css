@@ -660,12 +660,20 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 20px;
+}
+
+.resume .progress-bar-adjust {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .resume .custom-image {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 20px;
 }
 
 .resume .development-iteration p {
@@ -675,7 +683,7 @@ section {
 }
 
 .resume .product-strategy {
-  padding: 0 50px 50px 50px;
+  padding: 0 50px 0 50px;
 }
 
 .resume .product-strategy  p {
