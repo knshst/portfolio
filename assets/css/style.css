@@ -691,9 +691,11 @@ section {
   font-weight: 700;
 }
 
-.resume .img-fluid {
-  width: 70%;
-  height: auto;
+@media screen and (min-width: 768px) {
+  .resume .img-fluid {
+    width: 70%;
+    height: auto;
+  }
 }
 
 .resume .img-fluid2 {
