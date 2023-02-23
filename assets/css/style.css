@@ -692,10 +692,16 @@ section {
   margin-bottom: 20px;
 }
 
+.resume .warning {
+  text-align: center;
+  margin-top: 20px;
+  color: #FF514F;
+}
 .resume .development-iteration p {
   text-align: center;
   margin: 0;
   font-weight: 700;
+  text-decoration: underline;
 }
 
 .resume .product-strategy {
